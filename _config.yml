@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    :
-title_separator          : "-"
-subtitle                 : "hmm" # site tagline that appears below site title in masthead
+title_separator          : 
+subtitle                 :  # site tagline that appears below site title in masthead
 name                     : "Jacob Lee"
 description              : 
 url                      : "https://jacoblee628.github.io"
@@ -101,19 +101,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jcob@cmu.edu"
+      url: mailto:jcob@cmu.edu
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jacoblee628"
+      url: https://twitter.com/jacoblee628
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jacoblee628"
+      url: https://github.com/jacoblee628
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -123,13 +123,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jacoblee628"
+      url: https://twitter.com/jacoblee628
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jacoblee628/"
+      url: https://github.com/jacoblee628/
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:
