@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Curriculum Vitae
+permalink: /cv/
 author_profile: true
 ---
 # Hello
