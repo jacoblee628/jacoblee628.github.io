@@ -99,9 +99,6 @@ author:
   location         : "Pittsburgh, PA"
   email            : "jcob@cmu.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jcob@cmu.edu"
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -119,17 +116,17 @@ author:
       # url: "https://instagram.com/"
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jacoblee628"
+# footer:
+  # links:
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/jacoblee628"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jacoblee628/"
+    # - label: "GitHub"
+      # icon: "fab fa-fw fa-github"
+      # url: "https://github.com/jacoblee628/"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:
