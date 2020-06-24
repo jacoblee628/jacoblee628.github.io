@@ -35,6 +35,10 @@ body {
   flex: 1 0 auto;
 }
 
+.markdown-content {
+    font-size: $type-size-6;
+}
+
 .page {
   @include breakpoint($large) {
     float: right;
@@ -108,7 +112,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.9em;
   }
 
   /* paragraph indents */
