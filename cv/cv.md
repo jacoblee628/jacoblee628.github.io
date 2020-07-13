@@ -1,7 +1,7 @@
 ---
-layout: single
 title: Curriculum Vitae
+layout: single
 permalink: /cv/
 author_profile: true
 ---
-this is an about page
+hello

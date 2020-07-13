@@ -64,9 +64,6 @@ google:
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
 
 # Social Sharing
 twitter: 
@@ -75,7 +72,6 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -256,6 +252,11 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/projects/
+
 
 # Defaults
 defaults:
@@ -268,8 +269,15 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+
 
 # Add Github authentication to stop annoying message from happening
 github: [metadata]
