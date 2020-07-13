@@ -9,6 +9,8 @@ customized github.io theme based on [Minimal Mistakes](mmistakes.github.io/minim
 - To see the live page, after creating your repo, just navigate to `https://[your_username].github.io`
 
 # how to customize
+- basically just editing text files and putting stuff in folders
+    - vscode is pretty nice for editing these kinds of files; also has nice [markdown preview](https://code.visualstudio.com/docs/languages/markdown) extension
 - First, go over `_config.yml` line by line and change everything to your info
     - social media links and most of the sidebar info will be in this file
 - Each page is a `.md` (markdown) file, but you can use `.html` if you want.
