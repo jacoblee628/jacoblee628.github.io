@@ -11,8 +11,6 @@ Carnegie Mellon University <br>
 [Master of Information Systems Management (MISM)](https://www.heinz.cmu.edu/programs/information-systems-management-master/16-month) <br>
 Grad Dec 2020 <br>
 
-** Looking for Full-Time Employment (post Dec 2020)
-
 -----
 ### Bio
 * Current ML Scientist at ResQ, a startup tackling Cardiovascular Disease (CVD) with DL and IoT
