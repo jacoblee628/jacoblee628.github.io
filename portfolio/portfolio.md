@@ -19,16 +19,11 @@ Did a lot of stuff for the [11-785 Introduction to Deep Learning](http://deeplea
 
 **Description:**
 
-* Wrote four homework assignments for the course:
-    * hw1: Recreating [PyTorch](https://pytorch.org/) and automatic differentiation
-        * This took a lot of work - writeup is 30 pages long, with lots of illustrations and examples
-    * hw1bonus: Adam, Dropout, and BatchNorm
-    * hw2: Convolutional Neural Networks (CNNs)
-    * hw2bonus: 2d Convolutional Networks
-* on recreating the deep learning software  from scratch, using only NumPy and Python
-* Covers automatic differentiation, backpropagation, loss functions, and basic neural network components.
-
-
+Wrote four homework assignments for the course:
+* [hw1](http://deeplearning.cs.cmu.edu/F20/document/homework/Homework_1_1.pdf): Recreating [PyTorch](https://pytorch.org/) and automatic differentiation
+* [hw1bonus](http://deeplearning.cs.cmu.edu/F20/document/homework/Homework_1_Bonus.pdf): Adam, Dropout, and BatchNorm
+* [hw2](http://deeplearning.cs.cmu.edu/F20/document/homework/Homework_2_1.pdf): Convolutional Neural Networks (CNNs)
+* [hw2bonus](http://deeplearning.cs.cmu.edu/F20/document/homework/Homework_2_Bonus.pdf): 2d Convolutional Networks
 
 -----
 
@@ -44,12 +39,6 @@ Gave two recitation lectures:
 * Matrix calculus and backpropagation
 
 If I sound tired, it's because class was at 8am :( 
-
------
-
-#### Homework 2 - Convolutional Neural Networks (CNNs)
-
-<a href="http://deeplearning.cs.cmu.edu/F20/document/homework/Homework_2_1.pdf"><img src="../assets/images/hw2p1.png" width="500"/></a>
 
 -----
 #### Misc
