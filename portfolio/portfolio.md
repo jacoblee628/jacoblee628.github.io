@@ -54,12 +54,11 @@ If I sound tired, it's because class was at 8am :(
 -----
 #### Misc
 
-I also answered 3400 student questions on Piazza, more than the professor :) 
+Answered over 3400 student questions on Piazza
 
 <img src="../assets/images/my_stats.png" width="700"/>
 
-
-Our stats for the semester:
+Our average response time (24/7) was 5 minutes per question
 
 <img src="../assets/images/piazza_stats.png" width="200"/>
 
