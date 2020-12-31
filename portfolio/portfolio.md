@@ -32,24 +32,16 @@ Wrote four homework assignments for the course:
 
 <iframe src="https://youtube.com/embed/MARCktJrk0s" frameborder="0" allowfullscreen></iframe>
 
-**Description:**
-
-Gave two recitation lectures:
-* 'Bootcamp' on the first homework
-* Matrix calculus and backpropagation
-
-If I sound tired, it's because class was at 8am :( 
-
 -----
 #### Misc
 
 Answered over 3400 student questions on Piazza
 
-<img src="../assets/images/my_stats.png" width="700"/>
+<img src="../assets/images/my_stats.png" width="900"/>
 
 Our average response time (24/7) was 5 minutes per question
 
-<img src="../assets/images/piazza_stats.png" width="200"/>
+<img src="../assets/images/piazza_stats.png" width="300"/>
 
 
 
