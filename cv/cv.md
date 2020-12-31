@@ -4,7 +4,6 @@ layout: single
 permalink: /cv/
 author_profile: true
 ---
-<img src="resume.jpg" width="800"/> 
-<!-- ![Resume (12-26)](resume.png) -->
+<img src="assets/images/resume.png" width="800"/> 
 
 [Download .pdf](resume.pdf)
