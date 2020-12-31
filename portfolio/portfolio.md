@@ -6,14 +6,21 @@ permalink: /portfolio/
 # entries_layout: grid
 author_profile: true
 ---
+
 # Portfolio
 
-### 11-785 Introduction to Deep Learning (CMU)
+* TOC
+{:toc}
+
+-----
+
+## Intro to DL
+
 Did a lot of stuff for the [11-785 Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/F20/index.html) course at CMU.
 
 -----
 
-#### Homeworks
+### Homeworks
 
 <a href="http://deeplearning.cs.cmu.edu/F20/document/homework/Homework_1_1.pdf"><img src="../assets/images/hw1p1.png" width="500"/></a>
 
@@ -27,13 +34,13 @@ Wrote four homework assignments for the course:
 
 -----
 
-#### Recitations - Matrix Calc and Homework Bootcamp
+### Recitations - Matrix Calc and Homework Bootcamp
 <iframe src="https://youtube.com/embed/PB0yQlFU2Ds" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://youtube.com/embed/MARCktJrk0s" frameborder="0" allowfullscreen></iframe>
 
 -----
-#### Misc
+### Misc
 
 Answered over 3400 student questions on Piazza
 
@@ -42,6 +49,12 @@ Answered over 3400 student questions on Piazza
 Our average response time (24/7) was 5 minutes per question
 
 <img src="../assets/images/piazza_stats.png" width="300"/>
+
+-----
+## Music
+<iframe src="https://youtube.com/embed/OqmTRVhBP_8" frameborder="0" allowfullscreen></iframe>
+
+From my undergrad a cappella group, the [Pikers](http://pikers.wustl.edu/).
 
 <!-- ## Speech-to-Text with Listen Attend Spell
 <img src="/assets/images/asr.png" title="img source:https://analyticsindiamag.com/all-the-tech-you-need-to-know-that-powers-speech-to-text-on-your-device/" alt="Automatic Speech Recognition" width="400">
