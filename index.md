@@ -24,4 +24,4 @@ Applying for **PhD positions in Computer Science** for Fall 2021.
 * Gradient-based optimization methods
 * Deep learning theory
 * Deep learning architectures
-* Computer vision
+* NLP and speech
