@@ -20,7 +20,7 @@ Grad Dec 2020 <br>
 -----
 ### Previous Associations
 * **Data Mining Intern** at [Bosch's Cloud R&D](https://www.boschsecurity.com/xc/en/solutions/services/retail-services/), working on computer vision problems. 
-* TA for 11-785 [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/), where I answered 3400 student questions and wrote four homework assignments for the course
+* TA for 11-785 [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) at Carnegie Mellon
 
 -----
 
