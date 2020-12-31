@@ -43,8 +43,6 @@ Our average response time (24/7) was 5 minutes per question
 
 <img src="../assets/images/piazza_stats.png" width="300"/>
 
-
-
 <!-- ## Speech-to-Text with Listen Attend Spell
 <img src="/assets/images/asr.png" title="img source:https://analyticsindiamag.com/all-the-tech-you-need-to-know-that-powers-speech-to-text-on-your-device/" alt="Automatic Speech Recognition" width="400">
 
