@@ -11,17 +11,23 @@ Carnegie Mellon University <br>
 [Master of Information Systems Management (MISM)](https://www.heinz.cmu.edu/programs/information-systems-management-master/16-month) <br>
 Grad Dec 2020 <br>
 
+** Looking for Full-Time Employment (post Dec 2020)
+
 -----
-**Data Mining Intern** at Bosch's Cloud R&D, working on computer vision problems. 
+### Bio
+* Current ML Scientist at ResQ, a startup tackling Cardiovascular Disease (CVD) with DL and IoT
+* US Citizen that grew up in South Korea
+* Passionate about ML research, particularly in Deep Learning and non-convex optimization
 
-**TA for CMU's [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)** course.
-
-Applying for **PhD positions in Computer Science** for Fall 2021. 
+-----
+### Previous Associations
+* **Data Mining Intern** at [Bosch's Cloud R&D](https://www.boschsecurity.com/xc/en/solutions/services/retail-services/), working on computer vision problems. 
+* TA for 11-785 [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/), where I answered 3400 student questions and wrote four homework assignments for the course
 
 -----
 
 ### Research Interests
-* Gradient-based optimization methods
+* Speech processing
 * Deep learning theory
+* Optimization (mostly non-convex, gradient-based)
 * Deep learning architectures
-* NLP and speech

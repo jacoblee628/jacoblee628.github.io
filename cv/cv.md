@@ -1,10 +1,10 @@
 ---
-title: Curriculum Vitae
-layout: home
+title: Resume/CV
+layout: single
 permalink: /cv/
 author_profile: true
 ---
 
-<img src="../assets/images/resume.png" width="1000"/>
+<img src="../assets/images/resume.png" width="1300"/>
 
 [Download .pdf](../assets/images/resume.pdf)
