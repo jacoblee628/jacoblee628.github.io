@@ -13,10 +13,36 @@ author_profile: true
 {:toc}
 
 -----
+## Social Distancing Detection
+<figure>
+  <img src="https://i2.wp.com/syncedreview.com/wp-content/uploads/2020/04/image-51.png?w=1158&ssl=1" alt="my alt text"/>
+  <figcaption>(Above: Similar product by <a href=https://syncedreview.com/2020/04/20/landing-ai-social-distancing-detector-monitors-workplaces/>Landing AI</a>.)</figcaption>
+</figure>
+During my last internship, I built a system that tracks various metrics related to social distancing in retail spaces. It was based on computer vision-generated trajectories.
+
+-----
+## Trajectory Compression
+![Trajectory](https://irc.atr.jp/sets/approach_robot/trajectory_Other.png)
+
+I also researched, selected, and implemented a state-of-the-art trajectory compression algorithm.
+
+For our applications it was projected to compress trajectories up to 15x, while also removing noise from the data.
+
+-----
+## Speech Transcription
+<img src="../assets/images/asr.png" title="img source:https://analyticsindiamag.com/all-the-tech-you-need-to-know-that-powers-speech-to-text-on-your-device/" alt="Automatic Speech Recognition" width="400">
+
+Trained a neural network that converts input audio directly to text for the Intro to DL course at CMU.
+
+Based on transcription accuracy (with no misc error correction systems), placed #17 of 278 students in the course.
+
+Implemented [Listen Attend Spell (Chan et al, 2015)](https://arxiv.org/abs/1508.01211) from scratch with PyTorch, trained on AWS. 
+
+-----
 
 ## Intro to DL
 
-Did a lot of stuff for the [11-785 Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/F20/index.html) course at CMU.
+TA'd for the [11-785 Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/F20/index.html) course at CMU.
 
 -----
 
@@ -52,25 +78,9 @@ Our average response time (24/7) was 5 minutes per question
 
 -----
 ## Music
+
+I also do a lot of music : )
+
 <iframe src="https://youtube.com/embed/OqmTRVhBP_8" frameborder="0" allowfullscreen></iframe>
 
 From my undergrad a cappella group, the [Pikers](http://pikers.wustl.edu/).
-
-<!-- ## Speech-to-Text with Listen Attend Spell
-<img src="/assets/images/asr.png" title="img source:https://analyticsindiamag.com/all-the-tech-you-need-to-know-that-powers-speech-to-text-on-your-device/" alt="Automatic Speech Recognition" width="400">
-
-Trained a network that converts input audio directly to text. Implemented [Listen Attend Spell (Chan et al, 2015)](https://arxiv.org/abs/1508.01211) using only PyTorch, trained on AWS. Placed #17 of 278 students in the course.
-
------
-
-## Word Prediction with the AWD-LSTM
-<img src="/assets/images/text_generator.jpeg" title="img source:https://medium.com/towards-artificial-intelligence/sentence-prediction-using-word-level-lstm-text-generator-language-modeling-using-rnn-a80c4cda5b40" alt="Word Prediction" width="400">
-
-Trained a network that generates text. Implemented the heavily regularized [AWD-LSTM (Merity et al, 2018)](https://arxiv.org/abs/1708.02182), manually implementing regularization methods such as Locked Dropout, Embedding Dropout, and Weight Tying. 
-
------
-
-## Machine Learning from Scratch
-<img src="/assets/images/from_scratch.jpg" title="img source:https://www.oxy.edu/academics/areas-study/computer-science" alt="Deep Learning from Scratch" width="400">
-
-Implemented a variety of ML/DL algorithms from scratch. Optimizers, network architectures, search algorithms, and more. -->
