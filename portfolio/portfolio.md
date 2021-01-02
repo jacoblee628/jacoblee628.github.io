@@ -44,8 +44,6 @@ Implemented [Listen Attend Spell (Chan et al, 2015)](https://arxiv.org/abs/1508.
 
 TA'd for the [11-785 Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/F20/index.html) course at CMU.
 
------
-
 ### Homeworks
 
 <a href="http://deeplearning.cs.cmu.edu/F20/document/homework/Homework_1_1.pdf"><img src="../assets/images/hw1p1.png" width="500"/></a>
