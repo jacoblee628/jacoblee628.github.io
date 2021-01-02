@@ -14,10 +14,10 @@ author_profile: true
 
 -----
 ## Social Distancing Detection
-<figure>
-  <img src="https://i2.wp.com/syncedreview.com/wp-content/uploads/2020/04/image-51.png?w=1158&ssl=1" alt="my alt text"/>
-  <figcaption>(Above: Similar product by <a href=https://syncedreview.com/2020/04/20/landing-ai-social-distancing-detector-monitors-workplaces/>Landing AI</a>.)</figcaption>
-</figure>
+![SD Detection Example by Landing AI](https://i2.wp.com/syncedreview.com/wp-content/uploads/2020/04/image-51.png?w=1158&ssl=1)
+
+Above: Similar product by [Landing AI](https://syncedreview.com/2020/04/20/landing-ai-social-distancing-detector-monitors-workplaces/).
+
 During my last internship, I built a system that tracks various metrics related to social distancing in retail spaces. It was based on computer vision-generated trajectories.
 
 -----
@@ -30,7 +30,7 @@ For our applications it was projected to compress trajectories up to 15x, while 
 
 -----
 ## Speech Transcription
-<img src="../assets/images/asr.png" title="img source:https://analyticsindiamag.com/all-the-tech-you-need-to-know-that-powers-speech-to-text-on-your-device/" alt="Automatic Speech Recognition" width="400">
+<img src="/assets/images/asr.png" title="img source:https://analyticsindiamag.com/all-the-tech-you-need-to-know-that-powers-speech-to-text-on-your-device/" alt="Automatic Speech Recognition" width="400">
 
 Trained a neural network that converts input audio directly to text for the Intro to DL course at CMU.
 

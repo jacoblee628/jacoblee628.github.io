@@ -75,13 +75,14 @@
 
 // FOR CHANGING PAGE FONTS: I added this
 .initial-content {
-    p {
-        font-size: $type-size-6;
-    }
+    // p {
+    //     font-size: $type-size-6;
+    // }
 
-    ul {
-        font-size: $type-size-5;
-    }
+    // ul {
+    //     // font-size: $type-size-6;
+    //     font-size: 0.75em;
+    // }
 
     h1 {
         font-size: $type-size-3;
