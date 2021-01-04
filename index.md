@@ -25,7 +25,7 @@ Grad Dec 2020 <br>
 -----
 
 ### Research Interests
+* Computational Biology/Neuroscience
+* Deep learning theory and architectures
 * Speech processing
-* Deep learning theory
-* Optimization (mostly non-convex, gradient-based)
-* Deep learning architectures
+* Optimization (non-convex, gradient-based)

@@ -5,6 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-<img src="../assets/images/resume.jpg" width="1300"/>
+<img src="../assets/images/resume.png" width="1300"/>
 
 [Download .pdf](../assets/images/resume.pdf)
