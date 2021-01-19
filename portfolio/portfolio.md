@@ -13,6 +13,14 @@ author_profile: true
 {:toc}
 
 -----
+## Arrhythmia Detection with DL
+![Image from: https://www.mountelizabeth.com.sg/images/default-source/default-album/all-about-arrhythmias-arrhythmia.jpg?sfvrsn=18b7801e_4](https://www.mountelizabeth.com.sg/images/default-source/default-album/all-about-arrhythmias-arrhythmia.jpg?sfvrsn=18b7801e_4)
+
+Currently building DL models that can detect the presence of several lethal arrhythmias (heartbeats) based on ECG signals.
+
+Example code: [my reimplementation of the state of the art 2019 paper in PyTorch](https://github.com/jacoblee628/arrhythmia_hannun_2019)
+
+-----
 ## Social Distancing Detection
 ![SD Detection Example by Landing AI](https://i2.wp.com/syncedreview.com/wp-content/uploads/2020/04/image-51.png?w=1158&ssl=1)
 
